@@ -1,7 +1,7 @@
 # ANGESOM BERHANE 
-      Seattle, WA 98144 
-      206-355-7037 
-      a.berhane01@gmail.com 
+Seattle, WA 98144 
+206-355-7037  
+a.berhane01@gmail.com 
 
 ## OBJECTIVE 
 An enthusiastic individual seeking to join Microsoft leap Apprenticeship program as a software engineer. 
