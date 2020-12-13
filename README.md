@@ -11,6 +11,7 @@ on the planet to achieve more.
 - Agile development methodologies
 - RDBMS
 - SQL Programming
+- C#
 - SQL Server Integration Services/SSIS
 - Data Warehouse Tools/ETL, CMD, SSIS & SQL Server Import & Export Wizard	•	Requirements analysis and design phases
 - Data warehousing and Database development
